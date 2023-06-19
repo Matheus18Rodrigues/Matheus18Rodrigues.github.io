@@ -1,5 +1,4 @@
 <!DOCTYPE html>
-
 <html>
 <head>
   <meta http-equiv="CONTENT-TYPE" content="text/html; charset=UTF-8">
@@ -208,6 +207,6 @@
       <li><a href="https://youtu.be/4dQtz1PpY9A" target="_blank">HTML // Dicionário do Programador</a></li>
       <li><a href="https://www.alura.com.br/artigos/linguagem-programacao?gclid=Cj0KCQjw1rqkBhCTARIsAAHz7K2TURnrq1MXdvcX8NiuY7SBJA7g8VTMSTFNAxxO9LzBmdcO_56z3ikaAvKFEALw_wcB" target="_blank">Linguagens de programação: uma breve introdução contextualizada</a></li>
 
-  </body remote_theme: merlot>
+  </body>
 </html>
 
