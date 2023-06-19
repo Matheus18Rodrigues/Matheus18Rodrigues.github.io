@@ -35,7 +35,7 @@
   <p>A década de 2000 foi marcada pela explosão da Internet, com o aumento do acesso domiciliar e a popularização das mídias sociais. Surgiram empresas como Google, Amazon e Facebook, que moldaram a paisagem online.</p>
   <p>Nos últimos anos, a Internet tornou-se uma parte essencial da vida moderna. O advento da <strong style="color:orange;">Internet das Coisas (IoT)</strong> permitiu a conexão de dispositivos e objetos do cotidiano à rede. O crescimento do comércio eletrônico e dos serviços de streaming transformou as indústrias.</p>
   <small><strong><sup>*</sup></strong> <i>A Internet das Coisas é uma rede de objetos físicos conectados à internet, capazes de coletar e trocar dados para interagir e tomar decisões de forma autônoma.</i></small>
-  
+
   <h2 style="font-family:Times New Roman;color:purple;" id="conceito-client">Conceito de Client</h2>
   <small><a href="#inicio">(voltar)</a></small>
   <p>Na computação, o conceito de cliente refere-se a um dispositivo, programa ou processo que solicita serviços ou recursos de um <strong style="color:orange;">servidor</strong>. O cliente é responsável por iniciar a comunicação e enviar requisições para o <strong style="color:orange;">servidor</strong>, que, por sua vez, processa essas requisições e fornece as respostas ou os recursos solicitados.</p>
@@ -51,7 +51,7 @@
   <br>
   <br>
   <small><strong><sup>*</sup></strong> <i>Clientes da web são programas ou aplicativos utilizados pelos usuários para acessar e interagir com os recursos e serviços disponíveis na World Wide Web, como navegadores da web.</i></small>
-  
+
   <h2 style="font-family:Times New Roman;color:purple;" id="conceito-servers">Conceito de Servers</h2>
   <small><a href="#inicio">(voltar)</a></small>
   <p>Em computação, um servidor é um dispositivo, programa ou processo que fornece serviços, recursos ou informações a outros dispositivos, programas ou processos chamados clientes. O servidor é responsável por processar as solicitações dos clientes e enviar as respostas correspondentes.</p>
@@ -206,7 +206,5 @@
       <li><a href="https://youtu.be/KpOvNwK3rJQ">Tim Berners-Lee,O Criador da Web target="_blank"</a></li>
       <li><a href="https://youtu.be/4dQtz1PpY9A" target="_blank">HTML // Dicionário do Programador</a></li>
       <li><a href="https://www.alura.com.br/artigos/linguagem-programacao?gclid=Cj0KCQjw1rqkBhCTARIsAAHz7K2TURnrq1MXdvcX8NiuY7SBJA7g8VTMSTFNAxxO9LzBmdcO_56z3ikaAvKFEALw_wcB" target="_blank">Linguagens de programação: uma breve introdução contextualizada</a></li>
-
   </body>
 </html>
-
