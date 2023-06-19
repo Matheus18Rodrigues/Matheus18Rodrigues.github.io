@@ -207,7 +207,7 @@
       <li><a href="https://youtu.be/KpOvNwK3rJQ">Tim Berners-Lee,O Criador da Web target="_blank"</a></li>
       <li><a href="https://youtu.be/4dQtz1PpY9A" target="_blank">HTML // Dicionário do Programador</a></li>
       <li><a href="https://www.alura.com.br/artigos/linguagem-programacao?gclid=Cj0KCQjw1rqkBhCTARIsAAHz7K2TURnrq1MXdvcX8NiuY7SBJA7g8VTMSTFNAxxO9LzBmdcO_56z3ikaAvKFEALw_wcB" target="_blank">Linguagens de programação: uma breve introdução contextualizada</a></li>
-    remote_theme: merlot
-  </body>
+
+  </body remote_theme: merlot>
 </html>
 
