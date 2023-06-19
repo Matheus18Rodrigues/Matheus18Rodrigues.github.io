@@ -1,3 +1,5 @@
+<<<<<<< HEAD
+=======
 <!DOCTYPE html>
 <html>
 <head>
@@ -35,7 +37,11 @@
   <p>A década de 2000 foi marcada pela explosão da Internet, com o aumento do acesso domiciliar e a popularização das mídias sociais. Surgiram empresas como Google, Amazon e Facebook, que moldaram a paisagem online.</p>
   <p>Nos últimos anos, a Internet tornou-se uma parte essencial da vida moderna. O advento da <strong style="color:orange;">Internet das Coisas (IoT)</strong> permitiu a conexão de dispositivos e objetos do cotidiano à rede. O crescimento do comércio eletrônico e dos serviços de streaming transformou as indústrias.</p>
   <small><strong><sup>*</sup></strong> <i>A Internet das Coisas é uma rede de objetos físicos conectados à internet, capazes de coletar e trocar dados para interagir e tomar decisões de forma autônoma.</i></small>
+>>>>>>> 01fd84d0f552f900cd25687ca84ce87005e26bdf
 
+<<<<<<< HEAD
+
+=======
   <h2 style="font-family:Times New Roman;color:purple;" id="conceito-client">Conceito de Client</h2>
   <small><a href="#inicio">(voltar)</a></small>
   <p>Na computação, o conceito de cliente refere-se a um dispositivo, programa ou processo que solicita serviços ou recursos de um <strong style="color:orange;">servidor</strong>. O cliente é responsável por iniciar a comunicação e enviar requisições para o <strong style="color:orange;">servidor</strong>, que, por sua vez, processa essas requisições e fornece as respostas ou os recursos solicitados.</p>
@@ -208,3 +214,5 @@
       <li><a href="https://www.alura.com.br/artigos/linguagem-programacao?gclid=Cj0KCQjw1rqkBhCTARIsAAHz7K2TURnrq1MXdvcX8NiuY7SBJA7g8VTMSTFNAxxO9LzBmdcO_56z3ikaAvKFEALw_wcB" target="_blank">Linguagens de programação: uma breve introdução contextualizada</a></li>
   </body>
 </html>
+
+>>>>>>> 01fd84d0f552f900cd25687ca84ce87005e26bdf
